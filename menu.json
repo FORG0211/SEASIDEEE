@@ -1,0 +1,86 @@
+{
+    "APPETIZERS": [
+      { "id": 1, "name": "Buttered Shirmp", "price": 320 },
+      { "id": 2, "name": "Calamares", "price": 320 },
+      { "id": 3, "name": "Camaron Rebosado", "price": 320 },
+      { "id": 4, "name": "Cheese Stick", "price": 150 },
+      { "id": 5, "name": "French Fries", "price": 85 },
+      { "id": 6, "name": "Kinilaw", "price": 320 },
+      { "id": 7, "name": "Kropeck", "price": 49 },
+      { "id": 8, "name": "Lumpia Shanghai", "price": 180},
+      { "id": 9, "name": "Onion Rings", "price": 175 },
+      { "id": 10, "name": "Talaba", "price": 95 }
+
+    ],
+    "SPECIALS": [
+      { "id": 11, "name": "Adobo (Alimusan)", "price": 330 },
+      { "id": 12, "name": "Adobo Locus", "price": 290 },
+      { "id": 13, "name": "Chopsuey", "price": 250 },
+      { "id": 14, "name": "Bam-i", "price": 250},
+      { "id": 15, "name": "Bihon Guisado", "price": 250 },
+      { "id": 16, "name": "Pancit Canton Guisado", "price": 250 },
+      { "id": 17, "name": "Sotanghon Guisado", "price": 250 }
+      
+    ],
+    "CRABS": [
+      { "id": 18, "name": "Crab w/ Sweet Chili", "price": 390 },
+      { "id": 19, "name":" Salt & peper", "price": 350 }
+    ],
+    "SIZZLING/GRILLED": [
+      { "id": 20, "name": "Boneless Bangus", "price": 325},
+      { "id": 21, "name": "Blue Marlin", "price": 350 },
+      { "id": 22, "name": "Buttered Squid", "price": 320 },
+      { "id": 23, "name": "Stuffed Squid", "price": 250 },
+      { "id": 24, "name": "Gambas (250g)", "price": 320 },
+      { "id": 25, "name": "Mixed Seafoods", "price": 350},
+      { "id": 26, "name": "Pork Sisig", "price": 190},
+      { "id": 27, "name": "Tangigue (350g)", "price": 330},
+      { "id": 28, "name": "Tilapia", "price": 165}
+    ],
+    "RICE": [
+      { "id": 29, "name": "Plain Rice", "price": 20 },
+      { "id": 30, "name": "Garlic Rice", "price": 30},
+      { "id": 31, "name": "Fried Rice", "price": 25},
+      { "id": 32, "name": "Fried W Vegetable", "price": 210 },
+      { "id": 33, "name": "Fried W Seafood", "price": 260 }
+    ],
+    "BEVERAGES": [
+      { "id": 34, "name": "Calamansi", "price": 50 },
+      { "id": 35, "name": "Iced Tea Glass", "price": 45 },
+      { "id": 36, "name": "Iced Tea", "price": 130},
+      { "id": 37, "name": "Cucumber Lemonade Pitcher", "price": 180 },
+      { "id": 38, "name": "Canned Juice", "price": 50},
+      { "id": 39, "name": "Pepsi/7UP Bottle", "price": 20 },
+      { "id": 40, "name": "Mountaun Dew Bottle", "price": 25 },
+      { "id": 41, "name": "Canned Softdrinks", "price": 50 },
+      { "id": 42, "name": "1.5L Softdrinks", "price": 130 },
+      { "id": 43, "name": "Fresh Fruit Shakes", "price": 95 },
+      { "id": 44, "name": "San Mig Light", "price": 65 },
+      { "id": 45, "name": "Pale Pilsen", "price": 65 },
+      { "id": 46, "name": "Red Horse (Stallion)", "price": 65 }
+
+    ],
+    "SOUP": [
+      { "id": 47, "name": "Sinigang Fish", "price": 330 },
+      { "id": 48, "name": "Sinigang Pork", "price": 290 },
+      { "id": 49, "name": "Sinigang Shrimp", "price": 330 },
+      { "id": 50, "name": "Shells Soup", "price": 220},
+      { "id": 51, "name": "Tinola Manok", "price": 220 }
+    ],
+    "PORK": [
+      { "id": 52, "name": "Crispy Pata (1.2kg)", "price": 425 },
+      { "id": 53, "name": "Pork Adobo", "price": 290 },
+      { "id": 54, "name": "Pork Belly", "price": 85 },
+      { "id": 54, "name": "Pork Chop", "price": 85 }
+    ],
+    "CHICKEN": [
+      { "id": 55, "name": "Buttered Chicken", "price": 220 },
+      { "id": 56, "name": "Chicken Adobo", "price": 220 }
+      
+    ],
+    "DESSERTS": [
+      { "id": 57, "name": "Leche Flan", "price": 45 },
+      { "id": 58, "name": "Ice Cream", "price": 50 }
+    ]
+  }
+  
